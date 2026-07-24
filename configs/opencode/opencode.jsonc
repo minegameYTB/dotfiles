@@ -1,0 +1,12 @@
+{
+  "$schema": "https://opencode.ai/config.json",
+  "lsp": true,
+  "mcp": {
+    "mcp-nixos": {
+      "type": "local",
+      "command": [
+        "mcp-nixos"
+      ]
+    }
+  }
+}
