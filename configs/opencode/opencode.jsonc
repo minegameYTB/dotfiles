@@ -8,13 +8,6 @@
         "command": [
           "mcp-nixos"
         ]
-      },
-      "rea": {
-        "type": "local",
-        "command": [
-          "rea",
-          "mcp"
-        ]
       }
     }
   }
